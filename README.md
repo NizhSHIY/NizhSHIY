@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://camo.githubusercontent.com/ffa7b120ef5eca755e9a119e96882fe9743634dec1970a0c8076907390c9c989/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6373" style="margin-right:5px;">
   <img src="https://camo.githubusercontent.com/1594bb61e85b22739a2e8fa02ea68154f8969efc2f280a47f2602f99d5f0fc0e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7079" style="margin-left:5px;">
+  <img src="https://skillicons.dev/icons?i=html,css" style="margin-left:5px;">
 </p>
 
 <p align="center">
