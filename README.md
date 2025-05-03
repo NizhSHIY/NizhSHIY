@@ -11,9 +11,9 @@
 <p align="center">
   <a href="https://t.me/Dobricokoriginal" target="_blank">
   <img 
-    src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram" 
-    alt="Telegram"
-    style="border: none;"
+    src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram"
+    style="border: none;
+    border-radius: 1rem;"
   />
 </a>
 </p>
