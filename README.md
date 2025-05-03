@@ -9,5 +9,15 @@
 </p>
 
 <p align="center">
-  
+  <a href="https://t.me/Dobricokoriginal" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram" 
+    alt="Telegram"
+    style="border: none;"
+  />
+</a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Console.WriteLine(%22Hello%2C+World!%22)" alt="Typing SVG" /></a>
 </p>
